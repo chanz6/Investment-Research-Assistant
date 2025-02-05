@@ -1,0 +1,12 @@
+scikit-learn
+torch
+tensorflow
+pandas
+numpy
+yfinance
+beautifulsoup4
+alpha_vantage
+newsapi-python
+matplotlib
+seaborn
+streamlit
